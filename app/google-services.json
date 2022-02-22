@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88447918768",
+    "project_id": "last-assignment01",
+    "storage_bucket": "last-assignment01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88447918768:android:2505a115a220ab767fd175",
+        "android_client_info": {
+          "package_name": "com.example.maniactivitykt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88447918768-31k7aoe91jf0b0vb9pskjkn8lembmokl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCnvPJlA9MMqqvIn-jl3T-YZZlhCy9FPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88447918768-31k7aoe91jf0b0vb9pskjkn8lembmokl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
